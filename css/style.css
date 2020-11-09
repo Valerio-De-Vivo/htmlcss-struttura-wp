@@ -85,7 +85,7 @@ main{
 footer{
   width: 80%;
   height: 150px;
-  background-color: lightgrey;
+  background-color: white;
   margin: auto;
 }
 
@@ -98,7 +98,7 @@ footer .colfull{
 footer .col2{
   width: 30%;
   height: 100px;
-  background-color: white;
+  background-color: lightgrey;
   margin: 20px;
 }
 
